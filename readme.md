@@ -17,6 +17,7 @@ Foi usado o framework JavaScript Materialize.
 ## Linguagens
 
 **Front-end:** HTML, CSS e JavaScript.
+<br>
 **Back-end:** nada
 
 ## Cronologia
